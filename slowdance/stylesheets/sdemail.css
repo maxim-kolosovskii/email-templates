@@ -83,8 +83,8 @@ body {
 }
 
 .title {
-	/*font-family:'GenathDisplay-Italic', Georgia, serif; font-size:72px; font-weight: 100;*/
-font:100 72px 'GenathDisplay-Italic', Georgia, serif;
+font:100 72px Georgia, serif;
+	font-style: italic;
 	/*margin:-95px 0 40px;*/
 	margin:-10vh 0 4vh;
 }
