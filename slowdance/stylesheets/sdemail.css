@@ -73,22 +73,6 @@ body {
 /* -------------------------------------
 		EMAIL
 ------------------------------------- */
-.slowdance-email {
-	max-width:800px;
-	margin:0 auto;
-}
-
-.header {
-	padding: 3vh 0 6vh;
-}
-
-.title {
-font:100 72px Georgia, serif;
-	font-style: italic;
-	/*margin:-95px 0 40px;*/
-	margin:-10vh 0 4vh;
-}
-
 .main {background:url("../img/sd-email-noice-bg.jpg");
 	-webkit-box-shadow: 0 6px 12px -5px rgba(0,0,0,0.38);
 	-moz-box-shadow: 0 6px 12px -5px rgba(0,0,0,0.38);
